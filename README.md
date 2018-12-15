@@ -4,7 +4,7 @@ Interactive Shiny Dashboard to Display Prescriptions per 100,000
 This shiny dashboard has an interactive map to display prescriptions per 100,000 people of each state in the US. The data is from a 2014 survey of 25,000 doctors' prescription habits. 
 
 There is a drop down menu of the opioids included in the data set. 
-![Map](/../screenshots/OpioidList.png?raw=true "Optional Title")<!-- .element height="50%" width="50%" -->
+![Map](/../screenshots/OpioidList.png?raw=true "Optional Title")<!-- .element height="10%" width="10%" -->
 
 The option selected will result in a map created on the right hand side side of the page.
 
