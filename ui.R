@@ -3,7 +3,7 @@ shinyUI(
   dashboardPage(
     skin = "green",
     dashboardHeader(title = tags$strong('Opioid Prescriptions')),
-    dashboardSidebar(tags$blockquote('An opiod epidemic has swept across the United States in recent years.
+    dashboardSidebar(tags$blockquote('An opioid epidemic has swept across the United States in recent years.
                                      Most people are likely within two degrees of separation from somebody 
                                      impacted by the epidemic. The problem may start with prescription
                                      opioids. This dashboard shows data from a 2014 survey of 25,000
